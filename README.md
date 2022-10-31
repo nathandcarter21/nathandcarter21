@@ -1,8 +1,8 @@
-### Hi there 👋
+## Hi there 👋
 
 My name is Nathan and I am a computer science student at Brigham Young University. Here's some info about me.
 
-##### ⚡Skills
+#### ⚡Skills
 
 * C/C++
 * JavaScript
@@ -12,6 +12,6 @@ My name is Nathan and I am a computer science student at Brigham Young Universit
 * React
 * Next
 
-##### Contact
+#### 💬Contact
 
-💬 Reach me by email or LinkedIn! jnlcarter5@gmail.com | www.linkedin.com/in/nathandcarter21
+Reach me by email or LinkedIn! jnlcarter5@gmail.com | www.linkedin.com/in/nathandcarter21
