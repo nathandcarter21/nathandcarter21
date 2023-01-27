@@ -5,12 +5,16 @@ My name is Nathan and I am a computer science student at Brigham Young Universit
 #### ⚡Skills
 
 * C/C++
-* JavaScript
-* Python
 * Java
+* Python
+* JavaScript
 * HTML/CSS
 * React
-* Next
+
+#### 🌱Interests:
+
+* Software Engineering
+* Web Development
 
 #### 💬Contact
 
