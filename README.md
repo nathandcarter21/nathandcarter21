@@ -20,4 +20,4 @@ My name is Nathan and I am a computer science student at Brigham Young Universit
 
 #### 💬Contact
 
-Reach me by email or LinkedIn! jnlcarter5@gmail.com | www.linkedin.com/in/nathandcarter21
+Reach me by email or LinkedIn! nathandcarter21@gmail.com | www.linkedin.com/in/nathandcarter21
