@@ -17,6 +17,7 @@ My name is Nathan and I am a computer science student at Brigham Young Universit
 
 * Software Engineering
 * Web Development
+* IOS Development
 
 #### 💬 Contact
 
