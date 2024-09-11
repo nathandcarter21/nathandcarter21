@@ -4,9 +4,9 @@ My name is Nathan and I am a computer science student at Brigham Young Universit
 
 #### ⚡ Skills
 
+* Golang
 * Java
 * C/C++
-* Golang
 * Python
 * TypeScript
 * JavaScript
